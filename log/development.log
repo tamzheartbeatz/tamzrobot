@@ -14,3 +14,4 @@ Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2013-07-01 22:19:43 -0700
 Served asset /rails.png - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
